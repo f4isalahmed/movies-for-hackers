@@ -22,6 +22,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [WarGames](http://www.imdb.com/title/tt0086567/)                                           | Thriller/Drama            | 1983 | 7.1/10 | 
 | [Hackers](http://www.imdb.com/title/tt0113243/)                                            | Crime/Drama               | 1995 | 6.2/10 |
 | [Antitrust](http://www.imdb.com/title/tt0218817/)                                          | Thriller/Drama            | 2001 | 6.1/10 |
+| [Anonymous](http://www.imdb.com/title/tt3173594)                                           | Thriller/Drama            | 2016 | 6.4/10 |
 | [Reboot](http://www.imdb.com/title/tt2090594/)                                             | Thriller/Drama            | 2012 | 4.1/10 |
 | [Takedown](http://www.imdb.com/title/tt0159784/)                                           | Thriller/Drama            | 2000 | 6.3/10 |
 | [23](http://www.imdb.com/title/tt0126765/)                                                 | Thriller/Drama            | 1998 | 7.3/10 |
